@@ -1,0 +1,14 @@
+descartes
+geopandas
+geopy
+ipython
+jupyter
+matplotlib
+mysqlclient
+networkx
+numpy
+osmnx
+pandas
+shapely
+sqlalchemy
+tables
