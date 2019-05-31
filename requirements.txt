@@ -1,14 +1,11 @@
-descartes
+csv
 geopandas
 geopy
+folium
 ipython
 jupyter
+json
 matplotlib
-mysqlclient
-networkx
 numpy
-osmnx
 pandas
 shapely
-sqlalchemy
-tables
