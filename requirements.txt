@@ -8,5 +8,6 @@ jupyter
 json
 matplotlib
 numpy
+os
 pandas
 shapely
